@@ -152,24 +152,6 @@ VITE_APP_EMAILJS_RECIEVER=your@email.com
 
 **NOTE:** Please make sure to keep your API keys and configuration values secure and do not expose them publicly.
 
-## :camera: Screenshots:
-
-![Showcase your skills](/.github/images/img1.png "Showcase your skills")
-
-![Showcase your projects](/.github/images/img2.png "Showcase your projects")
-
-![Modern UI/UX](/.github/images/img3.png "Modern UI/UX")
-
-![Functional Contact form](/.github/images/img4.png "Functional Contact form")
-
-## :gear: Tech Stack
-
-[![React JS](https://skillicons.dev/icons?i=react "React JS")](https://react.dev/ "React JS") [![Vite JS](https://skillicons.dev/icons?i=vite "Vite JS")](https://vitejs.dev/ "Vite JS") [![Typescript](https://skillicons.dev/icons?i=ts "Typescript")](https://www.typescriptlang.org/ "Typescript") [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/ "Tailwind CSS") [![Netlify](https://skillicons.dev/icons?i=netlify "Netlify")](https://netlify.app/ "Netlify")
-
-## :wrench: Stats
-
-[![Stats for 3D Portfolio](/.github/images/stats.svg "Stats for 3D Portfolio")](https://pagespeed.web.dev/analysis?url=https://shubam.netlify.app/ "Stats for 3D Portfolio")
-
 ## :raised_hands: Contribute
 
 You might encounter some bugs while using this app. You are more than welcome to contribute. Just submit changes via pull request and I will review them before merging. Make sure you follow community guidelines.
