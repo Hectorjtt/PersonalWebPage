@@ -185,10 +185,6 @@ Useful resources and dependencies that are used in 3D Portfolio.
 - [typescript](https://www.npmjs.com/package/typescript): ^5.3.3
 - [vite](https://www.npmjs.com/package/vite): ^5.0.12
 
-## :coffee: Buy Me a Coffee
-
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
-
 ## :books: Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
