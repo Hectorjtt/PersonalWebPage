@@ -200,7 +200,7 @@ export const TESTIMONIALS = [
   },
   {
     testimonial:
-      "Participating in the hackathon with [Your Name] was an incredible experience. Their ability to solve complex problems quickly was key to our team’s progress. Plus, their knowledge of both frontend and backend made the project flow smoothly. We definitely wouldn’t have gotten as far without their contributions.",
+      "Participating in the hackathon with Héctor was an incredible experience. Their ability to solve complex problems quickly was key to our team’s progress. Plus, their knowledge of both frontend and backend made the project flow smoothly. We definitely wouldn’t have gotten as far without their contributions.",
     name: "Diego Lerriata",
     designation: "Full Stack Developer",
     company: "Hack Mty",
@@ -208,9 +208,9 @@ export const TESTIMONIALS = [
   },
   {
     testimonial:
-      "I had the chance to work with Héctor throughout our studies, and it´s clear how much effort and passion they put into every project. Their deep experience across various programming languages and technologies always stood out. Whether it was group projects or personal coding challenges, Héctor consistently demonstrated a strong work ethic and a mastery of full-stack development",
-    name: "Marco Alanis",
-    designation: "Computer Science Student",
+      "Héctor was essential in helping our team finish the hackathon project on time. Their organized approach and ability to coordinate different parts of the system were impressive. They were a great team leader and always available to help with any technical questions. It was truly a pleasure working with them.",
+    name: "Enrique Macias",
+    designation: "Backend Developer",
     company: "Tecnologico de Monterrey",
     image: user3,
   },
