@@ -285,26 +285,26 @@ export const PROJECTS = [
     live_site_link: "https://github.com/Hectorjtt/CapitalOne",
   },
   {
-    name: "TikTok Clone",
+    name: "Netflix Clone",
     description:
-      "A Next JS Web Application that enables users to upload videos of any length and size, create accounts and connect with other people just like any other social media.",
+      "Developed a fully functional Netflix clone using JavaScript, HTML, and CSS, featuring a dynamic user interface that allows users to browse, search, and stream a curated selection of movies and TV shows. The project includes interactive carousels, responsive design for multiple devices, and smooth user navigation, mimicking the core features of the original platform—all developed single-handedly from scratch",
     tags: [
       {
-        name: "nextjs",
+        name: "JavaScript",
         color: "blue-text-gradient",
       },
       {
-        name: "nodejs",
+        name: "Html",
         color: "green-text-gradient",
       },
       {
-        name: "tailwindcss",
+        name: "Css",
         color: "pink-text-gradient",
       },
     ],
     image: project4,
-    source_code_link: "https://github.com/sanidhyy/tiktok-clone",
-    live_site_link: "https://tiktok-clone-react.vercel.app/",
+    source_code_link: "https://github.com/Hectorjtt/Netflix-Clone",
+    live_site_link: "https://github.com/Hectorjtt/Netflix-Clone",
   },
   {
     name: "Cryptoverse",

@@ -18,7 +18,7 @@ const Footer = () => {
           &copy; Shubham {new Date().getFullYear()}. All rights reserved.
         </p>
 
-        {/* Nav Links (Desktop) */}
+        {/* Nav Links (Desktop)p */}
         <ul className="list-none hidden flex-row sm:flex gap-10">
           {SOCIALS.map((social) => (
             <li
