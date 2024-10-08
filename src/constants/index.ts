@@ -192,26 +192,26 @@ export const EXPERIENCES = [
 export const TESTIMONIALS = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
+      "Héctor did an outstanding job developing our full stack system. They met all the goals set and significantly improved the system’s performance and efficiency. Additionally, they were a great team player throughout the project.",
+    name: "Raul Martinez",
+    designation: "CEO",
+    company: "Solusof",
     image: user1,
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
+      "Participating in the hackathon with [Your Name] was an incredible experience. Their ability to solve complex problems quickly was key to our team’s progress. Plus, their knowledge of both frontend and backend made the project flow smoothly. We definitely wouldn’t have gotten as far without their contributions.",
+    name: "Diego Lerriata",
+    designation: "Full Stack Developer",
+    company: "Hack Mty",
     image: user2,
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
+      "I had the chance to work with Héctor throughout our studies, and it´s clear how much effort and passion they put into every project. Their deep experience across various programming languages and technologies always stood out. Whether it was group projects or personal coding challenges, Héctor consistently demonstrated a strong work ethic and a mastery of full-stack development",
+    name: "Marco Alanis",
+    designation: "Computer Science Student",
+    company: "Tecnologico de Monterrey",
     image: user3,
   },
 ] as const;
