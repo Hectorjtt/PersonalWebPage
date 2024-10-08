@@ -203,15 +203,15 @@ export const TESTIMONIALS = [
       "Participating in the hackathon with Héctor was an incredible experience. Their ability to solve complex problems quickly was key to our team’s progress. Plus, their knowledge of both frontend and backend made the project flow smoothly. We definitely wouldn’t have gotten as far without their contributions.",
     name: "Diego Lerriata",
     designation: "Full Stack Developer",
-    company: "Hack Mty",
+    company: "Hackaton Mty",
     image: user2,
   },
   {
     testimonial:
       "Héctor was essential in helping our team finish the hackathon project on time. Their organized approach and ability to coordinate different parts of the system were impressive. They were a great team leader and always available to help with any technical questions. It was truly a pleasure working with them.",
     name: "Enrique Macias",
-    designation: "Backend Developer",
-    company: "Tecnologico de Monterrey",
+    designation: "Front-end Developer",
+    company: "Hackaton Mty",
     image: user3,
   },
 ] as const;
