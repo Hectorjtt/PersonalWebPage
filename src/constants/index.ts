@@ -325,8 +325,8 @@ export const PROJECTS = [
       },
     ],
     image: project5,
-    source_code_link: "https://github.com/sanidhyy/crypto-app",
-    live_site_link: "https://reactjscryptoapp.netlify.app/",
+    source_code_link: "",
+    live_site_link: "",
   },
   
   {
@@ -348,8 +348,8 @@ export const PROJECTS = [
       },
     ],
     image: project6,
-    source_code_link: "https://github.com/sanidhyy/travel-advisor",
-    live_site_link: "https://travel-advisor-reactjs.netlify.app/",
+    source_code_link: "",
+    live_site_link: "",
   },
 ] as const;
 
